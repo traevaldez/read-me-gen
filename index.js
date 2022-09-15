@@ -4,7 +4,22 @@ const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
-const questions = [];
+const promptUser = () => {
+    return inquirer.prompt([
+        {
+            name: 'license',
+            type: 'list',
+            message: 'Select the kind of license for this application:',
+            choices: ['','','']
+        },
+        {
+            name: 'title',
+            type: 'input',
+            message: 'What is the title of your application?'
+        }
+     ]);
+
+};
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
@@ -14,7 +29,9 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    let answers = await userInput();
+}
 
 // Function call to initialize app
 init();
