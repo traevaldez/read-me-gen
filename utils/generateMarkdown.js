@@ -23,14 +23,14 @@ function generateMarkdown(data) {
   ## Badges
 
   ## Table of Contents
-    * [Description](#description)
-    * [Languages](#languages)
-    * [Installation](#install)
-    * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
-    * [Contribute](#contribute)
-    * [Test](#test)
+    - [Description](#description)
+    - [Languages](#languages)
+    - [Installation](#install)
+    - [Usage](#usage)
+    - [Credits](#credits)
+    - [License](#license)
+    - [Contribute](#contribute)
+    - [Test](#test)
 
   ## Description
   ${data.description}
