@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   ## Badges
 
   ## Table of Contents
-  
+
     - [Description](#description)
     - [Languages](#languages)
     - [Installation](#install)
@@ -84,7 +84,7 @@ function generateMarkdown(data) {
   ${data.license}
   
   ## Contribute
-  ${data.contribute}
+  ${data.contributing}
 
   ## Test
   ${data.test}

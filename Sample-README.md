@@ -3,7 +3,7 @@
   ## Badges
 
   ## Table of Contents
-  
+
     - [Description](#description)
     - [Languages](#languages)
     - [Installation](#install)
@@ -14,26 +14,26 @@
     - [Test](#test)
 
   ## Description
-  This is a sample application so it doesn't do anything
+  This is a sample project README generated for the module 9 challenge
 
   ## Languages
-  This app was built with JavaScript,Node
+  This app was built with JavaScript,HTML,jQuery,Bootstrap,Node
 
   ## Install
-  You clone the git repository
+  You can't, but normally you would clone the repository
 
   ## Usage
-  You can't because it's a sample
+  you can't
 
   ## Credits
   [Trae Valdez](trae@traemail.com) // [GitHub](http://www.github.com/traevaldez)
 
   ## License
-  
+  MIT
   
   ## Contribute
-  undefined
+  You can't
 
   ## Test
-  You don't
+  You can't
 

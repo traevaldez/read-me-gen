@@ -60,7 +60,7 @@ const userInput = () => {
             name: 'license',
             type: 'list',
             message: 'Select the kind of license for this application:',
-            choices: ['','','']
+            choices: ["Academic Free License v3.0", "Creative Commons Attribution 4.0", "MIT", "Open Software License 3.0"]
         },
         // How to contribute to this project
         {
