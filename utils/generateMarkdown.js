@@ -55,6 +55,7 @@ function generateMarkdown(data) {
   ## Badges
 
   ## Table of Contents
+  
     - [Description](#description)
     - [Languages](#languages)
     - [Installation](#install)

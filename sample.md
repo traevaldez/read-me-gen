@@ -3,29 +3,30 @@
   ## Badges
 
   ## Table of Contents
-    * [Description](#description)
-    * [Languages](#languages)
-    * [Installation](#install)
-    * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
-    * [Contribute](#contribute)
-    * [Test](#test)
+  
+    - [Description](#description)
+    - [Languages](#languages)
+    - [Installation](#install)
+    - [Usage](#usage)
+    - [Credits](#credits)
+    - [License](#license)
+    - [Contribute](#contribute)
+    - [Test](#test)
 
   ## Description
-  This is a sample so it does nothing
+  This is a sample application so it doesn't do anything
 
   ## Languages
-  This app was built with JavaScript
+  This app was built with JavaScript,Node
 
   ## Install
-  You don't
+  You clone the git repository
 
   ## Usage
-  You don't
+  You can't because it's a sample
 
   ## Credits
-  [Trae Valdez](mail@email.com) // [GitHub](http://www.github.com/samplehub)
+  [Trae Valdez](trae@traemail.com) // [GitHub](http://www.github.com/traevaldez)
 
   ## License
   
@@ -34,5 +35,5 @@
   undefined
 
   ## Test
-  YOUUUU DOn't
+  You don't
 
