@@ -4,7 +4,7 @@ const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
-const promptUser = () => {
+const userInput = () => {
     return inquirer.prompt([
         // App Title
         {
@@ -93,7 +93,7 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {
+async function init() {
     let answers = await userInput();
     writeToFile((answers.fileName), (generateMarkdown(answers)));
 }
